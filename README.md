@@ -1,4 +1,3 @@
-Hello Github, ini adalah reposity pertama saya.
-
-Ini fitur 1
-Ini fitur 2
+ini fitur 1
+ini fitur 2
+ini baris baru ditambahkan di Github
