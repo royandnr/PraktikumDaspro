@@ -11,3 +11,7 @@ jawaban Praktikum 1
             System.out.println("Registrasi ditolak. Silakan lunasi UKT terlebih dahulu.");
         }
 
+Jawaban Percobaan 2
+
+1. sintaks break berfungsi untuk menghentikan eksekusi switch setelah satu case cocok, jika tidak ada break, maka program akan terus mengeksekusi case berikutnya, walaupun nilainya tidak cocok lagi
+2. sintaks default berperan sebagai penanganan kondisi yang tidak terduga atau tidak sesuai pilihan yang ada dalam struktur switch-case, semisal ada studi kasus memasukkan semester selain dari 1-8 maka program akan memberikan respon yang informatif, tidak hanya diam saja
